@@ -1,0 +1,7 @@
+input {
+  margin: 10px 0 !important;
+  width: 100% !important;
+}
+.form-group > textarea {
+  margin: 10px 0;
+}
